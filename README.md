@@ -1,15 +1,16 @@
 <!--
 **evanholt1/evanholt1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
 Here are some ideas to get you started:
-** Osama Chegem
-**** Welcome to my github profile
+-->
+
+**Osama Chegem
+****Welcome to my github profile
 
 - 🔭 I’m currently working on ...
-  ⋅⋅* ISPM Project 
+  ⋅⋅*ISPM Project 
 - 🌱 I’m currently learning ...
-  ⋅⋅* Nodejs 
-  ⋅⋅* ASP.NET Core
+  ⋅⋅*Nodejs 
+  ⋅⋅*ASP.NET Core
   
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
