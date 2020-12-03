@@ -3,8 +3,13 @@
 Here are some ideas to get you started:
 -->
 
-##Osama Chegem
-####Welcome to my github profile
+## Osama Chegem
+### Welcome to my github profile
+##### Web Developer & CIS Student @JU
+---
+
+<img src="https://img.shields.io/badge/Node.js-339933?logo=Node.js&logoColor=white&style=for-the-badge" /> <img src="https://img.shields.io/badge/Javascript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" /> <img src="https://img.shields.io/badge/.NET-5C2D91?logo=.net&logoColor=white&style=for-the-badge" /> <img src="https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white&style=for-the-badge" /> <img src="https://img.shields.io/badge/VueJs-4FC08D?logo=vue.js&logoColor=white&style=for-the-badge" />
+
 
 - 🔭 I’m currently working on ...
   ⋅⋅*ISPM Project 
